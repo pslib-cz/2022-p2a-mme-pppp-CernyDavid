@@ -1,6 +1,6 @@
 Jazyk:
-[cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.md)
-[en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
+[en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.md)
+[cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
 # Držáky vlečných řetězů pro ATOMSTACK X7 Pro
 Účelem těchto řetězů je zabránit překážení kabelů při práci a laserem. (Kabel prochází řetězy.)  
 Jsou potřeba 3 držáky (jeden pro osu X a osu Y a jeden, která spojuje obě osy).  
