@@ -1,4 +1,6 @@
+Languages:
 [cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
+[en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
 # ATOMSTACK X7 Pro drag chain holders  
 The purpose of these chains is to prevent cables from interfering while the laser is working. (The cable is going through the chains.)  
 There are 3 parts (one for X axis and Y axis and one that connects both).  
