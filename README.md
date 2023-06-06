@@ -1,4 +1,4 @@
-Languages:
+Language:
 [cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
 [en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.md)
 # ATOMSTACK X7 Pro drag chain holders  
