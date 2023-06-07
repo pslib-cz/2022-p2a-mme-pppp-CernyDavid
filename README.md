@@ -6,9 +6,6 @@ The purpose of these chains is to prevent cables from interfering while the lase
 There are 3 parts (one for X axis and Y axis and one that connects both).  
 I used [this](https://www.thingiverse.com/thing:5506701) design by 737mechanic for the Y and XY parts and [this](https://www.thingiverse.com/thing:5274651) design for the X part.  
 
-## Print info
-Filament needed: ~22 meters
-
 ## How to install
 Y-axis: Just snap it onto the y-axis.  
 X & Y: Put it onto the lateral x-axis holder. First, you need to remove the U-shaped part on the back and then you can put it on. It fits very tightly and holds just fine, but you can secure it using screws.  
