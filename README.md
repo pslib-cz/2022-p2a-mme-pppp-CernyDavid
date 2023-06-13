@@ -2,7 +2,7 @@ Language:
 [cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
 [en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.md)
 # ATOMSTACK X7 Pro drag chain holders (3D print)
-The purpose of these chains is to prevent cables from interfering while the laser is working. (The cable is going through the chains.)  
+The purpose of these chains is to prevent cables from interfering while the laser is working. (The cable is going through the chains.) It can also hold air assist hose.  
 There are 3 parts (one for X axis and Y axis and one that connects both). Everything is supposed to be 3D printed.  
 I used [this](https://www.thingiverse.com/thing:5506701) design by 737mechanic for the Y and XY parts and [this](https://www.thingiverse.com/thing:5274651) design for the X part.  
 
