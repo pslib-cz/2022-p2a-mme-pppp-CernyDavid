@@ -13,5 +13,5 @@ X-axis: Remove the screws on the back of the laser head itself. Then, use those 
 
 ## Chains
 You need two drag chains, one for each axis. The holders are universal, you can use whatever chains you want, just make sure the holes for the screws are the same, so you can put everything together.  
-You can either buy them ([example](https://www.amazon.co.uk/dp/B07K8SW2S5?psc=1&ref_=as_li_ss_tl&language=en_US&linkCode=gg2&linkId=be812cece94a163ba874ffae049ecd1d&tag=737mechanic-20)) or print them ([example](https://www.thingiverse.com/thing:2920060)).  
+You can either buy them or print them. Personally, I used [these](https://www.thingiverse.com/thing:2920060).  
 Connect the chains with the holders using bolts and nuts. (diameter of the bolts: 3mm)
