@@ -30,6 +30,8 @@ Unfortunately, the screws that are already inside are too short, so you need to 
   
 ![1686840939479](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/5de9eed2-2ec0-4a3f-b7c6-9581345ad61b)  
 ## Chains
-You need two drag chains, one for each axis. The holders are universal, you can use whatever chains you want, just make sure the holes for the screws are the same, so you can put everything together.  
-You can either buy them or print them. Personally, I used [these](https://www.thingiverse.com/thing:2920060).  
-Connect the chains with the holders using bolts and nuts. (diameter of the bolts: 3mm)
+You need two drag chains, one for each axis. The holders are universal, you can use whatever chains you want, just make sure the holes for the screws are the same, so you can put everything together. The holes are exactly 1 cm apart.  
+You can either buy them or print them. Personally, I used [these](https://www.thingiverse.com/thing:2920060) (in this case, you need to make the holes for the screws yourself).  
+Connect the chains with the holders using bolts and nuts. Diameter of the bolts should be 3 mm.  
+If you use the same chains as me, you should be able to fit both the cable and the air hose through the chains.  
+![drag chains with cable and air hose](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/cb3a437c-3a41-4f13-bbae-1c20c040dc2e)
