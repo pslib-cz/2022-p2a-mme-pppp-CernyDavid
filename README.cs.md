@@ -2,7 +2,7 @@ Jazyk:
 [en](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.md)
 [cs](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/blob/main/README.cs.md)
 
-# Držáky vlečných řetězů pro ATOMSTACK X7 Pro
+# Držáky vlečných řetězů pro ATOMSTACK X7 Pro (3D tisk)
 ![Atomstack with drag chains](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/0f663162-a7f2-4869-93f8-dbb17fe0bf4a)  
   
 Účelem těchto řetězů je zabránit překážení kabelů při práci s laserem. (Kabel prochází řetězy.) Můžou také držet hadici pro Air Assist.  
