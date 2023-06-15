@@ -34,4 +34,5 @@ You need two drag chains, one for each axis. The holders are universal, you can 
 You can either buy them or print them. Personally, I used [these](https://www.thingiverse.com/thing:2920060) (in this case, you need to make the holes for the screws yourself).  
 Connect the chains with the holders using bolts and nuts. Diameter of the bolts should be 3 mm.  
 If you use the same chains as me, you should be able to fit both the cable and the air hose through the chains.  
+  
 ![drag chains with cable and air hose](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/cb3a437c-3a41-4f13-bbae-1c20c040dc2e)
