@@ -5,7 +5,7 @@ Language:
 ![Atomstack with drag chains](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/0f663162-a7f2-4869-93f8-dbb17fe0bf4a)  
   
 The purpose of these chains is to prevent cables from interfering while the laser is working. (The cable is going through the chains.) It can also hold air assist hose.  
-There are 3 parts (one for X axis and Y axis and one that connects both). Everything is supposed to be 3D printed.  
+There are 3 parts (one for X axis and Y axis and one that connects both).  
 I used [this](https://www.thingiverse.com/thing:5506701) design by 737mechanic for the Y and XY parts and [this](https://www.thingiverse.com/thing:5274651) design for the X part.  
 ## Print info
 Filament: PLA  
