@@ -8,6 +8,7 @@ I used [this](https://www.thingiverse.com/thing:5506701) design by 737mechanic f
 
 ## How to install
 Y-axis: Just snap it onto the y-axis.  
+  
 ![The Y-axis holder](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/19cd7f9b-db28-4e09-91e9-0460d279e866)
 X & Y: Put it onto the lateral x-axis holder. First, you need to remove the U-shaped part on the back and then you can put it on. It fits very tightly and holds just fine, but you can secure it using screws.  
 X-axis: Remove the screws on the back of the laser head itself. Then, use those holes and screw in the holder. Unfortunately, the screws that are already inside are too short, so you need to get a longer ones. They should be at least 5mm longer.
