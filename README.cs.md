@@ -33,7 +33,7 @@ Vyšroubujte vruty na zadní straně laserové hlavy.
 Pak využijte tyto otvory a přišroubujte držák takto: 
   
 ![1686840939450](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/b7322ecc-bd63-46a0-a58c-a0a94e803cd7)
-Bohužel vruty, které jsou již uvnitř laserové hlavy, jsou příliš krátké, takže je potřeba pořídit si delší. Měly by být alespoň o 5 milimetrů delší.  
+Bohužel vruty, které jsou již uvnitř laserové hlavy, jsou příliš krátké, takže je potřeba pořídit si delší. Měly by být přesně o 5 milimetrů delší. Ujistěte se, že držák drží opravdu pevně a nevyklá se, protože pokud tomu tak není, může to způsobit potíže.
   
 ![1686840939479](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/5de9eed2-2ec0-4a3f-b7c6-9581345ad61b)  
 ## Řetězy
