@@ -32,7 +32,7 @@ Remove the screws on the back of the laser head itself.
 Then, use those holes and screw in the holder like this: 
   
 ![1686840939450](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/b7322ecc-bd63-46a0-a58c-a0a94e803cd7)
-Unfortunately, the screws that are already inside are too short, so you need to get a longer ones. They should be at least 5mm longer.  
+Unfortunately, the screws that are already inside are too short, so you need to get a longer ones. They need to be exactly 5 mm longer. Make sure the holder fits really tightly, because if it doesn't, it can cause troubles.  
   
 ![1686840939479](https://github.com/pslib-cz/2022-p2a-mme-pppp-CernyDavid/assets/91247706/5de9eed2-2ec0-4a3f-b7c6-9581345ad61b)  
 ## Chains
